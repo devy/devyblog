@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+  <head> 
+    <title>My Blog</title>
+      <link href="https://fonts.googleapis.com/css?family=Handlee" rel="stylesheet">
+  </head>
+  <body>
+    <!About me section start>
+       <div class="section"/>
+            <h1><span>About Me</h1></span>
+            <p>
+              Hello World, I'm Lynzie, a twenty-something-year-old woman who codes. I'm a whovian, and secretly a platypus.
+              This blog will be where I update my educational goals and document my experiences. I will share tips and stradgeties 
+              along the way, as well as a view of my progress.
+              
+              </p>
+       </div>
+       <! About me section end >
+  </body>
+  </html>
+  
